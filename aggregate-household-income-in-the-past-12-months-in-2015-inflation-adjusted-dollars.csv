@@ -1,4 +1,4 @@
-Neighborhood,Id,Estimate; Aggregate household income in the past 12 months (in 2015 Inflation-adjusted dollars),Margin of Error; Aggregate household income in the past 12 months (in 2015 Inflation-adjusted dollars)
+Neighborhood,Id,Estimate,Margin of Error
 Allegheny Center,1,39947000,6437773
 Allegheny West,2,23793300,22025939
 Allentown,3,38303700,7490207.043
@@ -20,7 +20,7 @@ Central Lawrenceville,18,144917900,14971960.03
 Central Northside,19,96353500,14187902.91
 Central Oakland,20,55528300,8248328.467
 Chartiers City,21,13805200,4387080
-Chateau,22,-,**
+Chateau,22,13795460,9386091
 Crafton Heights,23,89278600,14312490.15
 Crawford-Roberts,24,34226600,7964968.613
 Duquesne Heights,25,91613300,18318437.52
@@ -70,7 +70,7 @@ Ridgemont,68,7893900,2639357
 Shadyside,69,605635700,62416083.58
 Sheraden,70,101081700,11670388.95
 South Oakland,71,47722300,10823398.42
-South Shore,72,-,**
+South Shore,72,17895230,1496280
 South Side Flats,73,233098400,31279286.86
 South Side Slopes,74,123648400,18884639.17
 Spring Garden,75,15833800,2941611.233
